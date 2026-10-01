@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0069-sqrtx) |
 ## Newton's Method
