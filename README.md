@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0169-majority-element) |
+| [1470-shuffle-the-array](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1470-shuffle-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
