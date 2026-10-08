@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1470-shuffle-the-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Newton's Method
@@ -115,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
