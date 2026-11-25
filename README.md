@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
