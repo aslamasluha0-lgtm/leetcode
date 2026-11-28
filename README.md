@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -154,5 +155,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0605-can-place-flowers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
