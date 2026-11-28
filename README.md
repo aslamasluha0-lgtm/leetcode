@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/aslamasluha0-lgtm/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
